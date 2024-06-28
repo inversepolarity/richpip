@@ -7,7 +7,7 @@ By default, Chrome ships with a picture-in-picture extension that
 
 RichPip aims to fix these.
 
-![screenshot.jpg]()
+![screenshot.jpg](screenshot.jpg)
 
 ## Configuration
 
